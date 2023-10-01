@@ -13,7 +13,13 @@ body {
   }
   .troisieme{
       text-shadow: 4px 4px 8px blue;
-  
   }
+    .quatrieme{
+      text-shadow: 4px 4px 8px pink;
+  
+    }
+  
+  
+
   /*   text-shadow: horizontal vertical flou couleur; */
   
