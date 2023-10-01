@@ -1,0 +1,19 @@
+
+body {
+    background-color:black;
+    color:white;
+  }
+    
+  .premier{
+    text-shadow: 2px 2px red;
+  }
+  
+  .deuxieme{
+    text-shadow: 4px 4px green;
+  }
+  .troisieme{
+      text-shadow: 4px 4px 8px blue;
+  
+  }
+  /*   text-shadow: horizontal vertical flou couleur; */
+  
